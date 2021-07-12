@@ -1,4 +1,4 @@
-# redisson-poc project
+# redisson quarkus remote service poc
 
 ### compile to native
 > package -Pnative -Dquarkus.native.container-build=true
