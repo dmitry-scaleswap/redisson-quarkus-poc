@@ -1,4 +1,4 @@
-package com.devk.playground;
+package com.example.playground;
 
 public interface DummySpec {
   String getInfo();

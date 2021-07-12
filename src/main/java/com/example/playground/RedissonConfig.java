@@ -1,4 +1,4 @@
-package com.devk.playground;
+package com.example.playground;
 
 import io.quarkus.runtime.StartupEvent;
 import javax.enterprise.context.Dependent;
