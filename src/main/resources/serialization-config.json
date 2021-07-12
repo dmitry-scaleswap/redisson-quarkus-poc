@@ -1,0 +1,11 @@
+[
+  {
+    "name": "org.redisson.remote.RemoteServiceRequest"
+  },
+  {
+    "name": "org.redisson.api.RemoteInvocationOptions"
+  },
+  {
+    "name": "org.redisson.remote.RemoteServiceAck"
+  }
+]
