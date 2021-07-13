@@ -16,6 +16,7 @@ reflection-config.json:
 
 `[{
 "name":"<Remote Service interface name>", "allDeclaredMethods":true }]`
+
 2. compile to native
 > package -Pnative -Dquarkus.native.container-build=true
 3. register the remote interface from within another quarkus app like this:
