@@ -1,20 +1,6 @@
 [
   {
-    "name" : "org.redisson.remote.RemoteServiceRequest",
-    "allDeclaredConstructors" : true,
-    "allPublicConstructors" : true,
-    "allDeclaredMethods" : true,
-    "allPublicMethods" : true,
-    "allDeclaredFields" : true,
-    "allPublicFields" : true
-  },
-  {
-    "name" : "org.redisson.api.RemoteInvocationOptions",
-    "allDeclaredConstructors" : true,
-    "allPublicConstructors" : true,
-    "allDeclaredMethods" : true,
-    "allPublicMethods" : true,
-    "allDeclaredFields" : true,
-    "allPublicFields" : true
+    "name" : "com.example.playground.DummySpec",
+    "allDeclaredMethods" : true
   }
 ]

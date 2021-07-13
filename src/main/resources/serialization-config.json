@@ -1,11 +1,18 @@
 [
   {
-    "name": "org.redisson.remote.RemoteServiceRequest"
+    "name":"org.redisson.remote.RemoteServiceRequest",
+    "customTargetConstructorClass":"java.lang.Object"
   },
   {
-    "name": "org.redisson.api.RemoteInvocationOptions"
+    "name":"org.redisson.api.RemoteInvocationOptions",
+    "customTargetConstructorClass":"java.lang.Object"
   },
   {
-    "name": "org.redisson.remote.RemoteServiceAck"
+    "name":"org.redisson.remote.RemoteServiceAck",
+    "customTargetConstructorClass":"java.lang.Object"
+  },
+  {
+    "name":"org.redisson.remote.RemoteServiceResponse",
+    "customTargetConstructorClass":"java.lang.Object"
   }
 ]
